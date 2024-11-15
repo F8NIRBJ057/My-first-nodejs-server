@@ -46,5 +46,12 @@ This application/project was created as a submission to my Web Technologies Cour
 - Returns a user by profession on entering /users/profession/:profession endpoint
 - Returns a user by name on entering /users/name/:name endpoint
 
+## Discussions/Takeaways
+- I learnt that request parameters alway return values as strings and parseint is use to convert a string to an integer
+- Renaming the screenshots to preferred names.
+- assigning each photo to a response.
+- Intializing committing & pushing the repo to github.
+- how to install express through the terminal.
+
 ## Contact
 - GitHub [@MAURA](https://github.com/F8NIRBJ057)
